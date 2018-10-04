@@ -1,0 +1,39 @@
+.logo-image {
+    width: 150px;
+}
+
+.article-image {
+    width: 100%;
+    border: 1px solid #CD8C3C;
+}
+
+.articles, .top-row {
+    text-align: justify;
+}
+
+.top-row {
+    padding-top: 15px;
+}
+
+.billboard-image {
+    width: 100%;
+}
+
+.line {
+    width: 100%;
+    background-color: #CD8C3C;
+    height: 1px;
+}
+
+body {
+    background-color: black;
+    color: #FCB50B;
+}
+
+.identity {
+    text-align: right;
+}
+
+.desc {
+    margin-top: 30px;
+}
